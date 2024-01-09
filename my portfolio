@@ -1,0 +1,62 @@
+<!doctype html>
+  <html>
+    <head>
+        <title>My Resume</title>
+    </head>
+    <body>
+       <h1>My Portfolio</h1>
+       <hr>
+       <h2>Profile</h2><img src="./img/profile2.jpg" width="100" alt="cute picture of me">
+       <hr>
+       <h2>Proffesional Summary</h2>
+          <p>I am a confident, creative and enthusiastic individual with diverse
+             experience in technology such as work experience in software
+             engineering, my time as a receptionist and my time working at a call
+             centre. I am also interested in social media management, during my high
+             school years I have withheld a high valued standard of work especially in
+             my ICT class. I pride myself on having excellent communication skills
+             acquired through speaking to customers during my time as an amazon
+             recruiter, that helped me Enhance my customer service and relationship
+             management skills which is crucial through effective communication,
+             feedback provision, and ensuring a positive and seamless candidate
+             experience. and volunteering at an Eid prayer. I thrive in working
+             collaboratively with my peers to complete work to the highest standard.
+           </p>
+        <hr>
+        <h2>Education</h2>
+           <p> <h3>Loreto College
+            Manchester, Aug 2023
+            <p><ul><li>Business C</li><li>Mathematics C</li>  <li>Applied Science MERIT</li> </p></h3>
+        <h3>Chorlton High School</ul>
+            manchester, Aug 2021 <br>
+        <ul><li>Maths 6 <li>Combined Science 66</li><li> English Language 5</li> <li>English Literature 4</li><li>Geography 6</li><li> ICT Merit</li></li><li> Arabic 7</li> <li> Music Tech Merit</li> <li>PE Merit</li></ul> 
+            </p></h3>
+        <hr>
+        <h2>Qualification</h2>
+        <h3><p>Student voice representative  <br>
+
+            Conducted over 300 hours of coding work in an online coding camp  earning a certificate. <br> <img src="./img/certificate.png" alt="Picture of certificate" width="400" height="300"></p></h3>
+        <hr>
+        <h2>Language</h2>
+        <h3><ul><li>English</li> <br><li>Somali</li></ul></h3>
+        <hr>
+        <h2>Voluntary Work Experiance</h2>
+        <h3>STAFF MEMBER — EID PRAYER[2 times a year]</h3> <p>
+             <ul>
+            <li>Event Coordination: Actively organized biannual Eid prayer events, showcasing organisational skills. </li><br>
+            <li>Managed time by effectively prioritizing urgent tasks.</li> <br>
+            <li>Worked under guidance of leadership and alongside other staff members to meet organizational goals.</li> <br>
+            <li>Adaptability and Attention to Detail: Highlighted by meticulous attention to detail in logistics and event setup. </li><br>
+            </ul></p>
+            <hr>
+            <h2>Refrecence</h2>
+            <h3>References: Available upon request. 
+            </h3>
+        <a href="./public/contact.html">Contact Details</a>
+        <footer>
+            <p>
+               All Rights Belong To hassanhanad1234@gmail.com
+            </p>
+        </footer>
+    </body>
+  </html>
